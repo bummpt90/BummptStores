@@ -45,7 +45,7 @@
 - **Anti-Manipulation Close-of-Sales**:
   - Compares expected cash in drawer (starting float + cash sales - cash refunds) against blind physical cash count.
   - Automatically computes variances (balanced, cash shortage, or surplus).
-  - Generates immutable shift audit reports and sends email notifications to the CEO/Owner.
+  - Generates immutable shift audit reports and sends email notifications to the CEO.
 
 ### 5. 📡 Real-Time CEO Sales Radar & Multi-Terminal Sync
 - **Server-Sent Events (SSE)**: Synchronizes transactions, inventory adjustments, and online orders across multiple cashier counters in real time.
