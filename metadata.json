@@ -1,0 +1,6 @@
+{
+  "name": "BummptStores",
+  "description": "BummptStores POS with staff shift security, live CEO sales radar, online ordering with delivery & product cost separation, automated low-stock alert triggers, barcode scanner, and Google Sheets sync.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
